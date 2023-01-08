@@ -38,6 +38,12 @@ dependencies:
   flutter_riverpod: ^2.1.1
   clipboard: ^0.1.3
   url_launcher: ^6.1.7
+  flutter_launcher_icons: ^0.11.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/site_search_icon.png"
 
 dev_dependencies:
   flutter_test:
