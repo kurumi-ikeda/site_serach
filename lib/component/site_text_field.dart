@@ -75,7 +75,6 @@ class SiteTextField extends ConsumerWidget {
                         ),
                         onTap: () {
                           if (controller.text.trim() == "") {
-                            print('enter text');
                           } else {
                             _copyText(controller, context);
                           }

@@ -4,14 +4,17 @@ import 'package:url_launcher/link.dart';
 
 import '../component/site_text_field.dart';
 
+///URL用のプロバイダー
 final urlTextControllerProvider = Provider.autoDispose<TextEditingController>((ref) {
   return TextEditingController(text: "");
 });
 
+///検索ワードのプロバイダー
 final wordSearchControllerProvider = Provider.autoDispose<TextEditingController>((ref) {
   return TextEditingController(text: "");
 });
 
+///[urlTextControllerProvider]と[wordSearchControllerProvider]を使ってURLを生成したものを保存するプロバイダー
 final uriStateProvider = StateProvider<Uri>((ref) {
   return Uri();
 });
