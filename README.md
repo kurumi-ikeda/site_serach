@@ -11,6 +11,6 @@ A new Flutter project.
 </p>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/65322807/212906463-9860820f-81f2-4821-8399-7fe577a0168a.png" width="20%">
-  <img src="https://user-images.githubusercontent.com/65322807/212906496-58023bf3-ecc0-416d-905d-c800120db909.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/65322807/212906496-58023bf3-ecc0-416d-905d-c800120db909.png" width="20%">
+  <img src="https://user-images.githubusercontent.com/65322807/212906463-9860820f-81f2-4821-8399-7fe577a0168a.png" width="50%">
 </p>
