@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+お疲れ様です！
 こんな感じで色とボタンを変えて見ましたがいかがでしょうか？
+もっとこうした方が良い、こういったデザインにしてほしいなどございましたら教えて欲しいです！
 
 # 1:TextButtonをRoundedMoveButtonに変えただけ
 <p>
