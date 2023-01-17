@@ -4,29 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# site_search
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p>
+  <img src="[https://user-images.githubusercontent.com/65322807/173543137-91391a1c-9b91-41bd-9d61-305f541b54e1.png](https://user-images.githubusercontent.com/65322807/212904870-28e37264-876e-4df6-b37f-b17895179d4a.png)" width="30%">
+  <img src="https://user-images.githubusercontent.com/65322807/173543580-6f992457-37e6-46aa-bca1-e5a9be96e101.png" width="30%">
+</p>
 
 For help getting started with Flutter development, view the
 <img width="419" alt="スクリーンショット 2023-01-17 21 54 27" src="https://user-images.githubusercontent.com/65322807/212904870-28e37264-876e-4df6-b37f-b17895179d4a.png">
